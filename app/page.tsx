@@ -131,12 +131,12 @@ export default function Portfolio() {
             <h1 className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6">
               Hi, I'm{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-teal-600">
-                Your Name
+                Nikhil Aryal
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
               Full-Stack Developer & UI/UX Designer passionate about creating beautiful, functional digital experiences
-              that make a difference.
+              that make a difference. - AI wala 😭
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
@@ -144,7 +144,7 @@ export default function Portfolio() {
                 onClick={() => scrollToSection("projects")}
                 className="bg-emerald-600 hover:bg-emerald-700 text-white"
               >
-                View My Work
+                Works ( not really )
               </Button>
               <Button
                 size="lg"
